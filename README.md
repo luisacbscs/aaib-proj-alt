@@ -2,7 +2,7 @@
 Projeto alternativo de AAIB
 Luísa CastelBranco Silva 55695 MIEB
 
-.gitpod.yml --> Inicialização do gitpod
+.gitpod.yml --> Inicialização do gitpod\\
 streamlit.py --> Código da página streamlit
 audio_sub.py --> Código de subscrição por mqtt gitpod/PC
 audios.txt --> Ficheiro .txt onde os ficheiros áudio gravados são guardados
