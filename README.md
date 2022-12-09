@@ -1,5 +1,5 @@
 # aaib-proj-alt
-Projeto alternativo de AAIB
+[Projeto alternativo de AAIB]
 
 Luísa CastelBranco Silva 55695 MIEB
 
