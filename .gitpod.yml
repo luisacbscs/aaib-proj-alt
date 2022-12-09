@@ -19,7 +19,7 @@ tasks:
       python setup.py install
       cd ..
       sudo apt-get install libsndfile1-dev
-    command: streamlit run app.py
+    command: streamlit run streamlit.py
 
   - name: Terminal 2
     init:  |
