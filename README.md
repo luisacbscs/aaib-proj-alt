@@ -1,5 +1,6 @@
 # aaib-proj-alt
 Projeto alternativo de AAIB
+Luísa CastelBranco Silva 55695 MIEB
 
 .gitpod.yml --> Inicialização do gitpod
 streamlit.py --> Código da página streamlit
