@@ -4,7 +4,7 @@ import paho.mqtt.client as mqtt
 import time
 from streamlit_autorefresh import st_autorefresh
 
-client = mqtt.Client("record_aaib")
+client = mqtt.Client("calc_aaib")
 client.connect("mqtt.eclipseprojects.io", 1883, 60)
 
 def read_expression():
